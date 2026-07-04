@@ -1,4 +1,4 @@
-# Naive Bayes Classifier from Scratch (Python)
+# A Naive Bayes Classifier from Scratch for Heart Disease Prediction (Python)
 
 A Naive Bayes classifier implemented entirely from scratch in Python, with no machine-learning libraries, and applied to heart disease prediction from clinical data. The emphasis of the project is on the underlying probabilistic mechanics: estimating priors and likelihoods directly from data, combining categorical and continuous features in a single framework, and handling the practical issues of numerical stability and missing values.
 
