@@ -37,6 +37,7 @@ Heart disease dataset with a mix of categorical and continuous clinical features
 ```
 naive-bayes-classifier/
 ├── README.md
+├── disease.csv         # Heart disease dataset (clinical features + disease-category labels)
 ├── naive_bayes.ipynb   # notebook: loads data, runs the classifier, shows results
 └── report.pdf          # Full write-up: model, derivation, and results
 ```
